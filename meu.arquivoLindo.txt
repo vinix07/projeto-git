@@ -1,1 +1,2 @@
-mensagem de commit
+Vinícius aprende a mexer no vscode 
+empregadosMelhoresquePatrao
